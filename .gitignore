@@ -1,0 +1,10 @@
+/.venv
+/build
+/configurator
+/dist
+/GITHUB
+/main.pyw
+/main.spec
+/py2exe.bat
+/SAVE.code-workspace
+/saves.db
